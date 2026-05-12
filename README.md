@@ -1,6 +1,6 @@
 # Liquidity Manifold Visualization
 
-This repository provides the technical implementation for "From Flow to Film: The Geometry of Stochastic Flows". It transforms abstract financial manifolds into an observable, geometric experience using `three.js` and `Python`. It visualizes the curvature singularity of the liquidity surface, where the fault line is detected by the spike in $W_2$ (Wasserstein-2) distance.
+This repository provides the technical implementation for "From Flow to Film: The Geometry of Stochastic Flows". It transforms abstract financial manifolds into an observable, geometric experience using `three.js` and `Python`. It visualizes the curvature singularity of the liquidity surface, where the fault line is detected by the spike in $W_1$ (Wasserstein-1) distance.
 
 ---
 
